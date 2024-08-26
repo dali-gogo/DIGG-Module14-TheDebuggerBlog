@@ -5,7 +5,7 @@ Dalia Gomez - Module 14 Challenge: MVC, The Debugger Blog.
 The purpose of this challenge was to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers' posts as well. The site was built from scratch and deployed to Render. The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Links
-URL of the GitHub repository that contains the code: 
+URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module14-TheDebuggerBlog
 
 ## User Story
 AS A developer who writes about tech
