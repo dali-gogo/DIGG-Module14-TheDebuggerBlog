@@ -3,7 +3,6 @@ import CardBody from './CardBody';
 
 export default function Counter() {
   const [count, setCount] = useState(0);
-
   const handleIncrement = () => {
     setCount(count + 1);
   };
