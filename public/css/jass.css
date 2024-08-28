@@ -256,12 +256,12 @@ html {
   }
   
   a {
-    color: #1b89bc;
+    color: #4e98ba;
     text-decoration: none;
   }
   
   a:hover {
-    color: #065b83;
+    color: #210683;
     text-decoration: underline;
   }
   
@@ -700,15 +700,15 @@ html {
   }
   
   .text-primary {
-    color: #2d3e50 !important;
+    color: #394d63ee !important;
   }
   
   .text-info {
-    color: #1bbc9b !important;
+    color: #1eceab !important;
   }
   
   .text-danger {
-    color: #e64c66 !important;
+    color: #ea566e !important;
   }
   
   .text-default {
@@ -732,7 +732,7 @@ html {
   }
   
   .text-link {
-    color: #1b89bc !important;
+    color: #2294c9 !important;
   }
   
   .bg-primary {
@@ -740,11 +740,11 @@ html {
   }
   
   .bg-info {
-    background-color: #1bbc9b !important;
+    background-color: #28d9b6 !important;
   }
   
   .bg-danger {
-    background-color: #e64c66 !important;
+    background-color: #ef778b !important;
   }
   
   .bg-light {
@@ -764,7 +764,7 @@ html {
   }
   
   .bg-link {
-    background-color: #1b89bc !important;
+    background-color: #53aed7 !important;
   }
   
   .display-none {
@@ -1516,4 +1516,4 @@ html {
       align-content: center;
     }
   }
-  
+     
